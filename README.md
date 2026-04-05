@@ -23,5 +23,20 @@ Tech used:-
 6) PySpark SQL
 7) Scikit Learn
 8) Joblib
+   
+Workflow:-
+<img width="560" height="602" alt="image" src="https://github.com/user-attachments/assets/a9284a4a-1c4a-402b-8a27-15506d937f44" />
 
-Workflow
+Sample UI:-
+<img width="1600" height="737" alt="image" src="https://github.com/user-attachments/assets/11645d4f-df9c-4700-9fad-c0b77cd198ea" />
+
+Comparision of our model prediction with the actual data for sample
+<img width="725" height="578" alt="image" src="https://github.com/user-attachments/assets/4e58432f-3389-4822-bef5-93f4c7dc110c" />
+<img width="1059" height="976" alt="image" src="https://github.com/user-attachments/assets/71a08db1-5b67-4a08-b3a1-2b1f3a728089" />
+
+Future extensions:-
+1) We have a model trained on the waitlist chances data for every train allowing users to predict the chance of securing a berth even before booking
+2) We plan to train our train delay data with more data though current maintenance works in route specific tracks, and traffic light glitches
+   
+
+
